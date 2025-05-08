@@ -1,17 +1,5 @@
 # CogniBit Documentation
 
-Welcome to CogniBit - the decentralized AI network.
+This repository contains the source for [CogniBit's Docsify documentation](https://iykeblueblood.github.io/cognibit-docs/).
 
-## Quick Links
-
-- [Getting Started](introduction)
-- [Agent Development Guide](agent-network)
-- [Marketplace Tutorial](marketplace)
-
-## Overview
-
-```mermaid
-graph LR
-    A[Agents] --> B[Training]
-    B --> C[Validation]
-    C --> D[Marketplace]
+[![GitHub Pages](https://img.shields.io/badge/View_Live-Docs-2ea44f)](https://iykeblueblood.github.io/cognibit-docs/)
