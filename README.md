@@ -10,7 +10,7 @@ Welcome to CogniBit - the decentralized AI network.
 
 ## Overview
 
-
+``` mermaid
 graph LR
     A[Agents] --> B[Training]
     B --> C[Validation]
